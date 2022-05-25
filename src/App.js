@@ -73,13 +73,13 @@ function App() {
           </Route>
           <Route path='/simple' element={
             <>
-              <Header data={data ? data : Data}></Header>
-              <Tierlist data={data ? data : Data} images={images}></Tierlist>
+              <Header data={data}></Header>
+              <Tierlist data={data} images={images}></Tierlist>
             </>}></Route>
 
           <Route path='/depth' element={
             <>
-              <Header data={data ? data : Data}></Header>
+              <Header data={data}></Header>
               <div className="container mb-4 shadow">
                 <div className="container bg-white text-dark p-3">
                   <div className="btn-group p-3" role="group" aria-label="Basic outlined example">
@@ -95,18 +95,12 @@ function App() {
                   </div>
                   <h2>{tier.toUpperCase()}</h2>
                 </div>
-                {inputFile ? Data.map((element, index) => {
+                {data.map((element, index) => {
                   if (element.tier === tier) {
                     color = !color
                     return <Entry key={index} data={element} color={color} images={images}></Entry>
                   }
-                }) :
-                  Data.map((element, index) => {
-                    if (element.tier === tier) {
-                      color = !color
-                      return <Entry key={index} data={element} color={color} images={images}></Entry>
-                    }
-                  })}
+                })}
               </div>
             </>}>
           </Route>
