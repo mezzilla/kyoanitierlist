@@ -1,0 +1,851 @@
+[
+    {
+        "name": "Matsuoka Gou",
+        "series": "Free!",
+        "image": "gou_matsuoka.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+
+    {
+        "name": "Tooru",
+        "series": "Kobayashi-san Chi no Maid Dragon",
+        "image": "tooru.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+
+    {
+        "name": "Kanna Kamui",
+        "series": "Kobayashi-san Chi no Maid Dragon",
+        "image": "kanna_kamui.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+
+    {
+        "name": "Kobayashi",
+        "series": "Kobayashi-san Chi no Maid Dragon",
+        "image": "kobayashi.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Riko Saikawa",
+        "series": "Kobayashi-san Chi no Maid Dragon",
+        "image": "riko_saikawa.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Chloe",
+        "series": "Kobayashi-san Chi no Maid Dragon",
+        "image": "chloe.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Quetzalcoatl",
+        "series": "Kobayashi-san Chi no Maid Dragon",
+        "image": "quetzalcoatl.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Elma",
+        "series": "Kobayashi-san Chi no Maid Dragon",
+        "image": "elma.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Ilulu",
+        "series": "Kobayashi-san Chi no Maid Dragon",
+        "image": "ilulu.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+
+    {
+        "name": "Violet Evergarden",
+        "series": "Violet Evergarden",
+        "image": "violet_evergarden.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Cattleya Baudelaire",
+        "series": "Violet Evergarden",
+        "image": "cattleya_baudelaire.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Iris Cannary",
+        "series": "Violet Evergarden",
+        "image": "iris_cannary.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+
+    {
+        "name": "Kumiko Oumae",
+        "series": "Hibike! Euphonium",
+        "image": "kumiko_oumae.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Hazuki Katou",
+        "series": "Hibike! Euphonium",
+        "image": "hazuki_katou.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Sapphire Kawashima",
+        "series": "Hibike! Euphonium",
+        "image": "sapphire_kawashima.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Reina Kousaka",
+        "series": "Hibike! Euphonium",
+        "image": "reina_kousaka.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Natsuki Nakagawa",
+        "series": "Hibike! Euphonium",
+        "image": "natsuki_nakagawa.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Riko Nagase",
+        "series": "Hibike! Euphonium",
+        "image": "riko_nagase.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Kaori Nakaseko",
+        "series": "Hibike! Euphonium",
+        "image": "kaori_nakaseko.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Yuuko Yoshikawa",
+        "series": "Hibike! Euphonium",
+        "image": "yuuko_yoshikawa.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Asuka Tanaka",
+        "series": "Hibike! Euphonium",
+        "image": "asuka_tanaka.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Haruka Ogasawara",
+        "series": "Hibike! Euphonium",
+        "image": "haruka_ogasawara.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Mizore Yoroizuka",
+        "series": "Hibike! Euphonium",
+        "image": "mizore_yoroizuka.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+
+    {
+        "name": "Nozomi Kasaki",
+        "series": "Hibike! Euphonium",
+        "image": "nozomi_kasaki.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+
+    {
+        "name": "Mamiko Oumae",
+        "series": "Hibike! Euphonium",
+        "image": "mamiko_oumae.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+
+    {
+        "name": "Rikka Takanashi",
+        "series": "Chuunibyou demo Koi ga Shitai!",
+        "image": "rikka_takanashi.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Sanae Dekomori",
+        "series": "Chuunibyou demo Koi ga Shitai!",
+        "image": "sanae_dekomori.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Shinka Nibutani",
+        "series": "Chuunibyou demo Koi ga Shitai!",
+        "image": "shinka_nibutani.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Kumin Tsuyuri",
+        "series": "Chuunibyou demo Koi ga Shitai!",
+        "image": "kumin_tsuyuri.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Satone Shichimiya",
+        "series": "Chuunibyou demo Koi ga Shitai!",
+        "image": "satone_shichimiya.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Touka Takanashi",
+        "series": "Chuunibyou demo Koi ga Shitai!",
+        "image": "touka_takanashi.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Kuzuha Togashi",
+        "series": "Chuunibyou demo Koi ga Shitai!",
+        "image": "kuzuha_togashi.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+
+    {
+        "name": "Shouko Nishimiya",
+        "series": "Koe no Katachi",
+        "image": "shouko_nishimiya.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Yuzuru Nishimiya",
+        "series": "Koe no Katachi",
+        "image": "yuzuru_nishimiya.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Naoka Ueno",
+        "series": "Koe no Katachi",
+        "image": "naoka_ueno.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+
+    {
+        "name": "Mai Kawakami",
+        "series": "Musaigen no Phantom World",
+        "image": "mai_kawakami.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Reina Izumi",
+        "series": "Musaigen no Phantom World",
+        "image": "reina_izumi.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Kurumi Kumamakura",
+        "series": "Musaigen no Phantom World",
+        "image": "kurumi_kumamakura.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Koito Minase",
+        "series": "Musaigen no Phantom World",
+        "image": "koito_minase.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Ruru",
+        "series": "Musaigen no Phantom World",
+        "image": "ruru.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+
+    {
+        "name": "Eru Chitanda",
+        "series": "Hyouka",
+        "image": "eru_chitanda.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+
+    {
+        "name": "Mayaka Ibara",
+        "series": "Hyouka",
+        "image": "mayaka_ibara.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+
+    {
+        "name": "Tamako Kitashirakawa",
+        "series": "Tamako Market",
+        "image": "tamako_kitashirakawa.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Shiori Asagiri",
+        "series": "Tamako Market",
+        "image": "shiori_asagiri.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Kanna Makino",
+        "series": "Tamako Market",
+        "image": "kanna_makino.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Anko Kitashirakawa",
+        "series": "Tamako Market",
+        "image": "anko_kitashirakawa.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Choi Mochimazzi",
+        "series": "Tamako Market",
+        "image": "choi_mochimazzi.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Mirai Kuriyama",
+        "series": "Kyoukai no Kanata",
+        "image": "mirai_kuriyama.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Mitsuki Nase",
+        "series": "Kyoukai no Kanata",
+        "image": "mitsuki_nase.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Sakura Inami",
+        "series": "Kyoukai no Kanata",
+        "image": "sakura_inami.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Ai Shindou",
+        "series": "Kyoukai no Kanata",
+        "image": "ai_shindou.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+
+    {
+        "name": "Latifa Fleuranza",
+        "series": "Amagi Brilliant Park",
+        "image": "latifa_fleuranza.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Isuzu Sento",
+        "series": "Amagi Brilliant Park",
+        "image": "isuzu_sento.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Kobori",
+        "series": "Amagi Brilliant Park",
+        "image": "kobori.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Salama",
+        "series": "Amagi Brilliant Park",
+        "image": "salama.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Muse",
+        "series": "Amagi Brilliant Park",
+        "image": "muse.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Sylphy",
+        "series": "Amagi Brilliant Park",
+        "image": "sylphy.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+
+    {
+        "name": "Yuuko Aioi",
+        "series": "Nichijou",
+        "image": "yuuko_aioi.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Mai Minakami",
+        "series": "Nichijou",
+        "image": "mai_minakami.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Mio Naganohara",
+        "series": "Nichijou",
+        "image": "mio_naganohara.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Hakase Shinonome",
+        "series": "Nichijou",
+        "image": "hakase_shinonome.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Nano Shinonome",
+        "series": "Nichijou",
+        "image": "nano_shinonome.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+
+    {
+        "name": "Mio Akiyama",
+        "series": "K-On!",
+        "image": "mio_akiyama.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Yui Hirasawa",
+        "series": "K-On!",
+        "image": "yui_hirasawa.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Tsumugi Kotobuki",
+        "series": "K-On!",
+        "image": "tsumugi_kotobuki.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Azusa Nakano",
+        "series": "K-On!",
+        "image": "azusa_nakano.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Ritsu Tainaka",
+        "series": "K-On!",
+        "image": "ritsu_tainaka.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Ui Hirasawa",
+        "series": "K-On!",
+        "image": "ui_hirasawa.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Nodoka Manabe",
+        "series": "K-On!",
+        "image": "nodoka_manabe.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Jun Suzuki",
+        "series": "K-On!",
+        "image": "jun_suzuki.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Sawako Yamanaka",
+        "series": "K-On!",
+        "image": "sawako_yamanaka.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+
+    {
+        "name": "Haruhi Suzumiya",
+        "series": "Suzumiya Haruhi no Yuuutsu",
+        "image": "haruhi_suzumiya.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Mikuru Asahina",
+        "series": "Suzumiya Haruhi no Yuuutsu",
+        "image": "mikuru_asahina.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Yuki Nagato",
+        "series": "Suzumiya Haruhi no Yuuutsu",
+        "image": "yuki_nagato.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Ryouko Asakura",
+        "series": "Suzumiya Haruhi no Yuuutsu",
+        "image": "ryouko_asakura.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Tsuruya",
+        "series": "Suzumiya Haruhi no Yuuutsu",
+        "image": "tsuruya.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+
+    {
+        "name": "Hikage Miyakawa",
+        "series": "Miyakawa-ke no Kuufuku",
+        "image": "hikage_miyakawa.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Hinata Miyakawa",
+        "series": "Miyakawa-ke no Kuufuku",
+        "image": "hinata_miyakawa.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+
+    {
+        "name": "Konata Izumi",
+        "series": "Lucky☆Star",
+        "image": "konata_izumi.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Miyuki Takara",
+        "series": "Lucky☆Star",
+        "image": "miyuki_takara.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Kagami Hiiragi",
+        "series": "Lucky☆Star",
+        "image": "kagami_hiiragi.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Tsukasa Hiiragi",
+        "series": "Lucky☆Star",
+        "image": "tsukasa_hiiragi.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Akira Kogami",
+        "series": "Lucky☆Star",
+        "image": "akira_kogami.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Misao Kusakabe",
+        "series": "Lucky☆Star",
+        "image": "misao_kusakabe.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Minami Iwasaki",
+        "series": "Lucky☆Star",
+        "image": "minami_iwasaki.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Patricia Martin",
+        "series": "Lucky☆Star",
+        "image": "patricia_martin.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Ayano Minegishi",
+        "series": "Lucky☆Star",
+        "image": "ayano_minegishi.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Nanako Kuroi",
+        "series": "Lucky☆Star",
+        "image": "nanako_kuroi.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Yui Narumi",
+        "series": "Lucky☆Star",
+        "image": "yui_narumi.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+
+    {
+        "name": "Misuzu Kamio",
+        "series": "Air",
+        "image": "misuzu_kamio.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Kano Kirishima",
+        "series": "Air",
+        "image": "kano_kirishima.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Minagi Toono",
+        "series": "Air",
+        "image": "minagi_toono.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Haruko Kamio",
+        "series": "Air",
+        "image": "haruko_kamio.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Kanna",
+        "series": "Air",
+        "image": "kanna.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Hijiri Kirishima",
+        "series": "Air",
+        "image": "hijiri_kirishima.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Uraha",
+        "series": "Air",
+        "image": "uraha.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Michiru",
+        "series": "Air",
+        "image": "michiru.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+
+    {
+        "name": "Ayu Tsukimiya",
+        "series": "Kanon(2006)",
+        "image": "ayu_tsukimiya.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+
+    {
+        "name": "Mai Kawasumi",
+        "series": "Kanon(2006)",
+        "image": "mai_kawasumi.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Nayuki Minase",
+        "series": "Kanon(2006)",
+        "image": "nayuki_minase.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Shiori Misaka",
+        "series": "Kanon(2006)",
+        "image": "shiori_misaka.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Makoto Sawatari",
+        "series": "Kanon(2006)",
+        "image": "makoto_sawatari.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Kaori Misaka",
+        "series": "Kanon(2006)",
+        "image": "kaori_misaka.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Mishio Amano",
+        "series": "Kanon(2006)",
+        "image": "mishio_amano.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Sayuri Kurata",
+        "series": "Kanon(2006)",
+        "image": "sayuri_kurata.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Akiko Minase",
+        "series": "Kanon(2006)",
+        "image": "akiko_minase.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+
+    {
+        "name": "Nagisa Furukawa",
+        "series": "Clannad",
+        "image": "nagisa_furukawa.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Kyou Fujibayashi",
+        "series": "Clannad",
+        "image": "kyou_fujibayashi.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Kotomi Ichinose",
+        "series": "Clannad",
+        "image": "kotomi_ichinose.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Fuuko Ibuki",
+        "series": "Clannad",
+        "image": "fuuko_ibuki.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Yukine Miyazawa",
+        "series": "Clannad",
+        "image": "yukine_miyazawa.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Ryou Fujibayashi",
+        "series": "Clannad",
+        "image": "ryou_fujibayashi.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Tomoyo Sakagami",
+        "series": "Clannad",
+        "image": "tomoyo_sakagami.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Mei Sunohara",
+        "series": "Clannad",
+        "image": "mei_sunohara.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Misae Sagara",
+        "series": "Clannad",
+        "image": "misae_sagara.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Ushio Okazaki",
+        "series": "Clannad",
+        "image": "ushio_okazaki.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Sanae Furukawa",
+        "series": "Clannad",
+        "image": "sanae_furukawa.jpg",
+        "description": "",
+        "tier":"unranked"
+    },
+    {
+        "name": "Kouko Ibuki",
+        "series": "Clannad",
+        "image": "kouko_ibuki.jpg",
+        "description": "",
+        "tier":"unranked"
+    }
+]

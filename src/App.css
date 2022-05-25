@@ -32,7 +32,62 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+img.small {
+  width: 10vw;
+}
+
+body {
+  background-color: #ffffff;
+  opacity: 1;
+  background-image: radial-gradient(#f74545 2px, transparent 2px), radial-gradient(#f74545 2px, #ffffff 2px);
+  background-size: 80px 80px;
+  background-position: 0 0, 40px 40px;
+
+}
+
+.shadow {
+  padding: 0px;
+  box-shadow: 20px 20px 25px #000000;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+/* hide scrollbar but allow scrolling */
+body {
+  -ms-overflow-style: none; /* for Internet Explorer, Edge */
+  scrollbar-width: none; /* for Firefox */
+  overflow-y: scroll; 
+}
+
+body::-webkit-scrollbar {
+  display: none; /* for Chrome, Safari, and Opera */
+}
+
+.top-left {
+  position: absolute;
+  top: 0px;
+  left: 24px;
+}
+
+.done {
+  box-sizing: border-box;
+  outline: 4px solid green;
+  outline-offset: -4px;
+}
+
+.notdone {
+  box-sizing: border-box;
+  outline: 4px solid red;
+  outline-offset: -4px;
 }
