@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kyoanitierlist/static/css/main.662bedff.css",
-    "main.js": "/kyoanitierlist/static/js/main.d79eb699.js",
+    "main.js": "/kyoanitierlist/static/js/main.c68ff981.js",
     "static/js/787.5301691c.chunk.js": "/kyoanitierlist/static/js/787.5301691c.chunk.js",
     "static/media/ryou_fujibayashi.jpg": "/kyoanitierlist/static/media/ryou_fujibayashi.fffa5d6cc01a684fcbd5.jpg",
     "static/media/misae_sagara.jpg": "/kyoanitierlist/static/media/misae_sagara.8ac2e9dbab2a3dccd2cb.jpg",
@@ -121,14 +121,14 @@
     "static/media/kuzuha_togashi.jpg": "/kyoanitierlist/static/media/kuzuha_togashi.9c9fd7b514a26fb3268f.jpg",
     "static/media/kobayashi.jpg": "/kyoanitierlist/static/media/kobayashi.52a66464f2f7d0e8e35a.jpg",
     "static/media/naoka_ueno.jpg": "/kyoanitierlist/static/media/naoka_ueno.4ceb942f5ec515e80b9c.jpg",
-    "static/media/kyoani_logo.jpg": "/kyoanitierlist/static/media/kyoani_logo.2cb6b1343dbccdbee832.jpg",
+    "static/media/kyoani_logo.jpg": "/kyoanitierlist/static/media/kyoani_logo.84cd3c50328bf0ea288a.jpg",
     "index.html": "/kyoanitierlist/index.html",
     "main.662bedff.css.map": "/kyoanitierlist/static/css/main.662bedff.css.map",
-    "main.d79eb699.js.map": "/kyoanitierlist/static/js/main.d79eb699.js.map",
+    "main.c68ff981.js.map": "/kyoanitierlist/static/js/main.c68ff981.js.map",
     "787.5301691c.chunk.js.map": "/kyoanitierlist/static/js/787.5301691c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.662bedff.css",
-    "static/js/main.d79eb699.js"
+    "static/js/main.c68ff981.js"
   ]
 }
