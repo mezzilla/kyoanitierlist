@@ -17,7 +17,7 @@ const Header = ({ data }) => {
       <section className='p-3 bg-white text-dark shadow mb-4'>
         <div className="row align-items-center">
           <div className="col-md-1">
-            <a href="#">
+            <a href="/kyoanitierlist">
               <img src={logo}
                 className="img-fluid small m-0" alt="">
               </img>
