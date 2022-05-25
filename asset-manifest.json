@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kyoanitierlist/static/css/main.34ad2328.css",
-    "main.js": "/kyoanitierlist/static/js/main.1620ddfb.js",
+    "main.js": "/kyoanitierlist/static/js/main.2c0a89cb.js",
     "static/js/787.5301691c.chunk.js": "/kyoanitierlist/static/js/787.5301691c.chunk.js",
     "static/media/ryou_fujibayashi.jpg": "/kyoanitierlist/static/media/ryou_fujibayashi.fffa5d6cc01a684fcbd5.jpg",
     "static/media/misae_sagara.jpg": "/kyoanitierlist/static/media/misae_sagara.8ac2e9dbab2a3dccd2cb.jpg",
@@ -12,6 +12,7 @@
     "static/media/mishio_amano.jpg": "/kyoanitierlist/static/media/mishio_amano.107b13ed9f2c021cb4e1.jpg",
     "static/media/ayu_tsukimiya.jpg": "/kyoanitierlist/static/media/ayu_tsukimiya.e5320329d7b40b312d3e.jpg",
     "static/media/mai_kawasumi.jpg": "/kyoanitierlist/static/media/mai_kawasumi.0e58f7dea524dfbe936e.jpg",
+    "static/media/logo193.png": "/kyoanitierlist/static/media/logo193.ecae4127326900ba30d8.png",
     "static/media/nayuki_minase.jpg": "/kyoanitierlist/static/media/nayuki_minase.5c39a612f4027c3726f2.jpg",
     "static/media/tomoyo_sakagami.jpg": "/kyoanitierlist/static/media/tomoyo_sakagami.3127ce705a980cc6fb86.jpg",
     "static/media/tooru.jpg": "/kyoanitierlist/static/media/tooru.131531806b271fff8bc6.jpg",
@@ -121,14 +122,13 @@
     "static/media/kuzuha_togashi.jpg": "/kyoanitierlist/static/media/kuzuha_togashi.9c9fd7b514a26fb3268f.jpg",
     "static/media/kobayashi.jpg": "/kyoanitierlist/static/media/kobayashi.52a66464f2f7d0e8e35a.jpg",
     "static/media/naoka_ueno.jpg": "/kyoanitierlist/static/media/naoka_ueno.4ceb942f5ec515e80b9c.jpg",
-    "static/media/kyoani_logo.jpg": "/kyoanitierlist/static/media/kyoani_logo.84cd3c50328bf0ea288a.jpg",
     "index.html": "/kyoanitierlist/index.html",
     "main.34ad2328.css.map": "/kyoanitierlist/static/css/main.34ad2328.css.map",
-    "main.1620ddfb.js.map": "/kyoanitierlist/static/js/main.1620ddfb.js.map",
+    "main.2c0a89cb.js.map": "/kyoanitierlist/static/js/main.2c0a89cb.js.map",
     "787.5301691c.chunk.js.map": "/kyoanitierlist/static/js/787.5301691c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.34ad2328.css",
-    "static/js/main.1620ddfb.js"
+    "static/js/main.2c0a89cb.js"
   ]
 }
