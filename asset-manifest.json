@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kyoanitierlist/static/css/main.34ad2328.css",
-    "main.js": "/kyoanitierlist/static/js/main.b2c8ba0e.js",
+    "main.js": "/kyoanitierlist/static/js/main.2102ba8d.js",
     "static/js/787.5301691c.chunk.js": "/kyoanitierlist/static/js/787.5301691c.chunk.js",
     "static/media/ryou_fujibayashi.jpg": "/kyoanitierlist/static/media/ryou_fujibayashi.fffa5d6cc01a684fcbd5.jpg",
     "static/media/misae_sagara.jpg": "/kyoanitierlist/static/media/misae_sagara.8ac2e9dbab2a3dccd2cb.jpg",
@@ -125,11 +125,11 @@
     "static/media/naoka_ueno.jpg": "/kyoanitierlist/static/media/naoka_ueno.4ceb942f5ec515e80b9c.jpg",
     "index.html": "/kyoanitierlist/index.html",
     "main.34ad2328.css.map": "/kyoanitierlist/static/css/main.34ad2328.css.map",
-    "main.b2c8ba0e.js.map": "/kyoanitierlist/static/js/main.b2c8ba0e.js.map",
+    "main.2102ba8d.js.map": "/kyoanitierlist/static/js/main.2102ba8d.js.map",
     "787.5301691c.chunk.js.map": "/kyoanitierlist/static/js/787.5301691c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.34ad2328.css",
-    "static/js/main.b2c8ba0e.js"
+    "static/js/main.2102ba8d.js"
   ]
 }
