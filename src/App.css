@@ -42,6 +42,10 @@ img.small {
   width: 10vw;
 }
 
+img.smaller {
+  width: 5vw;
+}
+
 body {
   background-color: #ffffff;
   opacity: 1;

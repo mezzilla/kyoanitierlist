@@ -19,7 +19,7 @@ const Header = ({ data }) => {
           <div className="col-md-1">
             <a href="/kyoanitierlist">
               <img src={logo}
-                className="img-fluid small m-0" alt="">
+                className="img-fluid smaller m-0" alt="">
               </img>
             </a>
           </div>
