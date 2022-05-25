@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from "../images/kyoani_logo.jpg"
+import logo from "../logo193.png"
 
 const Header = ({ data }) => {
   const exportData = () => {
